@@ -1,3 +1,3 @@
 # node-code
 
-All code related to Backend created by using node
+All code related to Backend created by using node tech
